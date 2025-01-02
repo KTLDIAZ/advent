@@ -1,4 +1,4 @@
-#🎄 Calculate the height of the Christmas tree
+# 🎄 Calculate the height of the Christmas tree
 
 Santa Claus 🎅 is decorating a magical Christmas tree 🪄, which this year has a special structure in the form of a **binary tree.** Each node of the tree represents a gift, and Santa wants to know the **height of the tree** to place the magical star at the top.
 
